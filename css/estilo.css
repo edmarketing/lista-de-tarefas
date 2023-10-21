@@ -61,6 +61,7 @@ main{
     width: 100%;
     box-shadow: 0 0 20px #ccc;
     margin-bottom: 5px;
+    cursor: pointer;
 }
 
 .item.clicado{
@@ -99,6 +100,7 @@ main{
     font-size: medium;
     height: 80px;
     width: 100%;
+    cursor: pointer;
 }
 
 .mdi-check-circle{
